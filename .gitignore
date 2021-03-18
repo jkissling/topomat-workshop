@@ -1,0 +1,4 @@
+_Code
+*.pptx
+node_modules
+**/assets/esri

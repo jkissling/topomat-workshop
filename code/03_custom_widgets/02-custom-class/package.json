@@ -1,0 +1,19 @@
+{
+  "name": "2-custom-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/arcgis-js-api": "^4.18.0",
+    "tslib": "^2.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
